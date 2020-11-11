@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+}
+
+.item{
+    display: flex;
+    margin-top: 15px;
+    margin-left: 40px;
+    justify-content: space-around;
+    box-shadow: grey;
+    text-align: center;
+  
+
+}
+.article1{
+    margin: 10px;
+    align-items: center;
+    box-shadow: 15px 20px 20px grey;
+    color: grey;
+    justify-content: space-around;
+    
+
+}
+.img-1{
+    width: 350px;
+    height: 200px;
+    border-radius: 5%;
+}
